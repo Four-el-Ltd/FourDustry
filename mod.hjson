@@ -8,7 +8,7 @@ name: "example-java-mod"
 author: "Ruslanllll"
 
 #the fully qualified main class of the mod
-main: "example.ExampleJavaMod"
+main: "flab.fdustry.main.FourDustryMod"
 
 #the mod description as seen in the mod dialog
 description: "Супер мега миндустримод"
